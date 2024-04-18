@@ -8,9 +8,10 @@ body[2].innerHTML='things i leart form univelcity <abbr title="HyperText Markup 
 
 const p = document.getElementsByTagName('p')
 
-p[4].innertext = 'i love swimming'
-p[5].innertext ='i love singing '
-p[6].innertext ='i love writing cod'
+p[4].innerText =
+p[5].innerText ='i love singing '
+p[6].innerText ='i love writing coding  expecialy react native'
+
 
 const title = document.querySelector('h1')
 
